@@ -29,9 +29,7 @@ const pesquisarCep = async() => {
 
     limparFormulario();
 
-    const cep = document.getElementById('cep').value;
-    //neste caso ao inves de escutar, estou capturando o value que o elemento 'cep' possui
-
+    const cep = document.getElementById('cep').value.replace("-","");
     const url = `https://viacep.com.br/ws/${cep}/json/`;
     //url do site que disponibiliza os dados do cep digitado
 
