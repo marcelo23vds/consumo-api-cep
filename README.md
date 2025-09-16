@@ -1,6 +1,6 @@
 # Consumo da API-CEP com JavaScript
 
-![](./img/preview.PNG)
+![](./img/preview.png)
 
 Página de cadastro de endereço, onde o usuario pode digitar apenas o CEP e o restante do endereço é preenchido automaticamente utilizando a API-CEP.
 

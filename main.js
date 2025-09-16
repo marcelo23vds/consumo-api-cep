@@ -1,5 +1,5 @@
 /* *****************************************************************************************
-* Objetivo: Preencher automaticamente o formulario de acordo com o CEP digitado e validações (API CEP)
+* Objetivo: Preencher automaticamente o formulario de acordo com o CEP digitado (API CEP)
 * Data: 16/09/2025
 * Autor: Marcelo Vieira
 * Versão: 1.0
